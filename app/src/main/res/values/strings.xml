@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Voting system</string>
+    <string name="voting_quote">\u0022Vote For The Best. The One Better Than\nThe Rest.\u0022</string>
+    <string name="quote_author">- Onkar</string>
+    <string name="verification_guide">Please enter 6 digit verification code sent to %1$s</string>
+    <string name="verification_resend_guide">Resent 6 digit verification code sent to %1$s</string>
+    <string name="confirm">Confirm</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="full_name">Full Name</string>
+    <string name="voter_id">Voter ID</string>
+    <string name="aadhar_card_number">Aadhar Card Number</string>
+    <string name="continue_text">Continue</string>
+    <string name="party_logo">Party logo</string>
+    <string name="make_your_vote">Make your vote</string>
+    <string name="vote_to">Make a vote to %1$s</string>
+    <string name="alread_voted">You have already voted</string>
+    <string name="verification_code">Verification code</string>
+</resources>
